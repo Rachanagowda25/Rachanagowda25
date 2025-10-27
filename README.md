@@ -7,7 +7,7 @@
 
 ### 🧑‍🎓 About Me
 <p align="center">
-  Rachana M<b>PES Institute of Technology and Management</b> (2023–2027).  
+  Rachana M
   <br>
   A creative learner passionate about <b>AI, Smart Infrastructure, and Web Development</b>.  
   I love solving problems through design, logic, and technology. 🌱
